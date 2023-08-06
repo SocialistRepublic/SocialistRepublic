@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SocialistRepublic
+- 👀 Our mission is to create free software that will change the world, make it better and change people's lives for the better
+- 📫 How to reach me: github@socialist-republic.org
